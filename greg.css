@@ -1,0 +1,136 @@
+
+
+nav {
+
+
+	background-color: #EEEEEE;
+	width: 100%;
+	height: 45px;
+	padding: 15px 5px 25px 12px;
+
+}
+
+h3 {
+
+	position: absolute;
+	margin-left: 10px;
+}
+
+.nav-right {
+
+          position: absolute;
+          right: 25px;
+          padding: 20px;
+          word-spacing: 15px;
+         
+          
+}
+
+.nav-link {
+  
+        font-size: 18px;
+        color: #551A8B;
+}
+
+
+
+input {
+
+	position:relative;
+	left: 110px;
+	top: 50px;
+
+}
+
+button {
+
+	position: relative;
+	left: 522px;
+	top: -18px;
+	width: 29px;
+	height: 29px;
+
+}
+
+img {
+
+	border: 1px black solid;
+	position: relative;
+	left: -8px;
+	top: -3px;
+	width: 33px;
+	height: 33px;
+}
+
+a {
+
+	text-decoration: none;
+}
+
+a:hover {
+
+	text-decoration: underline;
+}
+
+
+.pages {
+
+	border: 1px black solid;
+	position: relative;
+	left: 76px;
+	top: 45px;
+	padding: 5px;
+
+
+}
+
+.previous {
+
+			padding: 8px 8px 8px 8px;
+			font-size: 14px;
+
+}
+
+					/*fix border and padding*/
+.pages-display {
+
+		border-left: 1px black solid;
+		border-right: 1px black solid;
+		padding: 2px 2px 2px 2px;
+		font-size: 14px;
+
+
+}
+
+.next {
+
+		padding: 8px 8px 8px 8px;
+		font-size: 14px;
+
+}
+
+.listings {
+
+			position: relative;
+			top: 176px;
+			left: -193px;
+			list-style: none;
+			display: inline-block;
+			font-size: 18px;
+
+
+
+}
+
+.date, .location {
+
+			color: #999999;
+
+}
+
+.title {
+			color: #0047F0;
+
+}
+
+
